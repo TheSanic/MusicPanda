@@ -8,7 +8,7 @@ import discord
 import discord.ext.commands as commands
 import youtube_dl
 
-
+lol
 def setup(bot):
     bot.add_cog(Music(bot))
 
